@@ -3,7 +3,6 @@
 #include "esphome/core/component.h"
 #include "esphome/components/tuya/tuya.h"
 #include "esphome/components/light/light_state.h"
-#include "observable.h"
 
 namespace esphome {
 namespace xmcosy {
